@@ -4,7 +4,7 @@ const HttpProvider = TronWeb.providers.HttpProvider;
 const fullNode = new HttpProvider("https://api.shasta.trongrid.io");
 const solidityNode = new HttpProvider("https://api.shasta.trongrid.io");
 const eventServer = new HttpProvider("https://api.shasta.trongrid.io");
-const privateKey = "53e77495002645aa50303d2ee82af50797618a7aaee5616f2509d40b45353656";
+const privateKey = "priv key of fromAddr";
 const tronWeb = new TronWeb(fullNode,solidityNode,eventServer,privateKey);
 
 const contractAddr = 'TNs3FFr9JVYfopfr7PGXUJELs626CnTsiW' //fake USDT available on shasta so far
