@@ -9,4 +9,4 @@
 
 [3. 如何监听波场TRC20合约事件， 发送交易](https://github.com/xudong-z/Interact_BlockContract/tree/main/TRC20)
 
-[4. 不适用geth/web3, 根据ECSDA算法离线生成BTC/Ethereum/Tron私钥和钱包地址及checkSum](https://github.com/xudong-z/blocksmith)
+[4. 不使用geth/web框架, 根据ECSDA算法离线生成BTC/Ethereum/Tron私钥和钱包地址及checkSum](https://github.com/xudong-z/blocksmith)
